@@ -24,8 +24,6 @@ The project is ideal for data analysts looking to enhance their SQL skills by wo
 - **Exceptional Value**: For just **$9**, access 100 SQL problems, 20 advanced query solutions, and a real-world project.
 - **Limited Offer**: Special price available for the **first 100 students**!
 
-**Get the guided project/datasets here**: [Get the Project Datasets](https://topmate.io/zero_analyst/1237072)
-
 ## Database Schema
 
 The project uses five main tables:
