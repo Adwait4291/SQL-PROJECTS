@@ -16,7 +16,7 @@ An ERD diagram is included to visually represent the database schema and relatio
 
 ---
 
-![ERD Scratch]([https://github.com/Adwait4291/SQL-PROJECTS/blob/main/AMAZON%20SALES/Updated%20ERD%20-%20Amazon.png])
+![ERD Scratch](https://github.com/Adwait4291/SQL-PROJECTS/blob/0f1756411ef447b2cba89c78528938b235a5331c/AMAZON%20SALES/Updated%20ERD%20-%20Amazon.png)
 
 ## **Database Setup & Design**
 
