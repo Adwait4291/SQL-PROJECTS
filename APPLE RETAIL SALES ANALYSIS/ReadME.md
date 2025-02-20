@@ -9,7 +9,6 @@ The project is ideal for data analysts looking to enhance their SQL skills by wo
 
 ## Entity Relationship Diagram (ERD)
 
-![ERD](https://github.com/najirh/Apple-Retail-Sales-SQL-Project---Analyzing-Millions-of-Sales-Rows/blob/main/erd.png)
 
 ### What’s Included:
 - **100 SQL Practice Problems**: Extensive coverage of major SQL topics for mastering concepts with real-world data.
@@ -114,6 +113,6 @@ This project primarily focuses on developing and showcasing the following SQL sk
 
 ## Conclusion
 
-By completing this project, you will develop advanced SQL querying skills, improve your ability to handle large datasets, and gain practical experience in solving complex data analysis problems that are crucial for business decision-making. This project is an excellent addition to your portfolio and will demonstrate your expertise in SQL to potential employers.
+By completing this project, I have developed advanced SQL querying skills, improved my ability to handle large datasets, and gained practical experience in solving complex data analysis problems that are crucial for business decision-making. This project is an excellent addition to my portfolio and will demonstrate my expertise in SQL to potential employers.
 
 ---
